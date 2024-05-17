@@ -15,7 +15,7 @@ Pour mener à bien cette analyse de données, j'ai exploité les capacités du l
 - **Microsoft PowerPoint** : Pour la création d'une présentation percutante des résultats, facilitant la communication des insights clés aux parties prenantes.
 
 ## Déroulement
-La mission s'est déroulée en deux parties, comme décrit dans le briefing d'Annabelle, notre responsable Marketing. Tout d'abord, j'ai répondu aux demandes d'Antoine, notre Business Analyst intrépide, en réalisant une analyse des indicateurs de vente, avec un focus particulier sur le chiffre d'affaires et les références produits. Ensuite, j'ai collaboré étroitement avec Julie, notre experte en Business Intelligence, pour plonger dans l'étude du comportement des clients en ligne.
+La mission s'est déroulée en deux parties. Tout d'abord, j'ai répondu aux demandes d'Antoine, notre Business Analyst intrépide, en réalisant une analyse des indicateurs de vente, avec un focus particulier sur le chiffre d'affaires et les références produits. Ensuite, j'ai collaboré étroitement avec Julie, notre experte en Business Intelligence, pour plonger dans l'étude du comportement des clients en ligne.
 
 ## Réalisations
 Au cours de cette aventure de données, j'ai créé une variété de graphiques et d'indicateurs, allant des courbes de tendance du chiffre d'affaires aux analyses approfondies de la répartition des ventes par catégorie de produits. J'ai également exploré les profils des clients et la répartition du chiffre d'affaires entre eux, en utilisant des outils tels que la courbe de Lorenz pour illustrer la concentration des ventes.
