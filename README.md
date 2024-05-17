@@ -1,4 +1,4 @@
-# Projet 6 OpenClassrooms Exploration des Données de Lapage 📊💻
+# Projet 6 OpenClassrooms:  Exploration des Données de Lapage 📊💻
 
 ## Introduction
 Bienvenue dans le monde captivant de l'analyse de données de Lapage ! Dans ce projet de formation, j'ai eu l'opportunité incroyable d'explorer les méandres des données de cette librairie en ligne en pleine expansion. En tant que Data Analyst fraîchement recruté, j'ai plongé tête la première dans l'univers des chiffres et des indicateurs, avec pour mission de comprendre l'activité de l'entreprise et de fournir des insights pertinents à l'équipe Marketing.
